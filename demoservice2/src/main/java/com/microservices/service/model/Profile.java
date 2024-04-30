@@ -1,4 +1,4 @@
-package com.microservices.service2.demoservice2.model;
+package com.microservices.service.model;
 
 import java.util.List;
 
